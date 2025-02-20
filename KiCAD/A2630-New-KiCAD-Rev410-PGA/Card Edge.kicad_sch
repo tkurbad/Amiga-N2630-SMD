@@ -16442,6 +16442,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C49678"
+			(at 237.49 208.915 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ff6a7d87-c5e6-4509-8918-1525dc85be70")
 		)
@@ -16503,6 +16512,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 261.62 208.915 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C49678"
 			(at 261.62 208.915 0)
 			(effects
 				(font
@@ -16580,6 +16598,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C49678"
+			(at 285.115 208.915 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9e528690-09a1-42a3-b5f8-d8a387d5bec5")
 		)
@@ -16641,6 +16668,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 307.34 208.915 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C49678"
 			(at 307.34 208.915 0)
 			(effects
 				(font
@@ -16718,6 +16754,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C49678"
+			(at 329.565 208.915 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c1aaeadb-d0b4-4f63-ad6d-84aadf4c76a2")
 		)
@@ -16779,6 +16824,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 351.79 208.915 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C49678"
 			(at 351.79 208.915 0)
 			(effects
 				(font
@@ -16856,6 +16910,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C49678"
+			(at 374.015 208.915 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cd69c021-3efb-41a1-a212-9147b2aca775")
 		)
@@ -16896,7 +16959,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm"
+		(property "Footprint" "Package_SO:TSSOP-16_4.4x5mm_P0.65mm"
 			(at 51.435 95.885 0)
 			(effects
 				(font
@@ -16915,6 +16978,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 51.435 95.885 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2677702"
 			(at 51.435 95.885 0)
 			(effects
 				(font
@@ -17164,6 +17236,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C49678"
+			(at 51.435 117.475 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ed2f7935-3793-4332-9032-a891fb84f3c0")
 		)
@@ -17269,7 +17350,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-24W_7.5x15.4mm_P1.27mm"
+		(property "Footprint" "Package_SO:SSOP-24_3.9x8.7mm_P0.635mm"
 			(at 182.88 74.295 0)
 			(effects
 				(font
@@ -17301,6 +17382,15 @@
 			(effects
 				(font
 					(size 3.9878 3.9878)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2873070"
+			(at 182.88 74.295 0)
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
@@ -17411,7 +17501,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-24W_7.5x15.4mm_P1.27mm"
+		(property "Footprint" "Package_SO:SSOP-24_3.9x8.7mm_P0.635mm"
 			(at 182.245 132.08 0)
 			(effects
 				(font
@@ -17443,6 +17533,15 @@
 			(effects
 				(font
 					(size 3.9878 3.9878)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2873070"
+			(at 182.245 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
@@ -17580,6 +17679,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C132267"
+			(at 182.245 230.505 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "aebbb1f6-af4a-4db4-86ab-be1d87eefd03")
 		)
@@ -17693,6 +17801,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 182.245 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C132267"
 			(at 182.245 189.23 0)
 			(effects
 				(font
@@ -18057,7 +18174,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_6.3x5.8"
 			(at 227.965 233.68 0)
 			(effects
 				(font
@@ -18076,6 +18193,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 227.965 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5246536"
 			(at 227.965 233.68 0)
 			(effects
 				(font
@@ -18126,7 +18252,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_6.3x5.8"
 			(at 240.03 233.68 0)
 			(effects
 				(font
@@ -18145,6 +18271,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 240.03 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5246550"
 			(at 240.03 233.68 0)
 			(effects
 				(font
@@ -18195,7 +18330,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_6.3x5.8"
 			(at 252.095 233.68 0)
 			(effects
 				(font
@@ -18214,6 +18349,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 252.095 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5246550"
 			(at 252.095 233.68 0)
 			(effects
 				(font
@@ -18264,7 +18408,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_6.3x5.8"
 			(at 263.525 233.68 0)
 			(effects
 				(font
@@ -18283,6 +18427,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 263.525 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5246550"
 			(at 263.525 233.68 0)
 			(effects
 				(font
@@ -18333,7 +18486,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-24W_7.5x15.4mm_P1.27mm"
+		(property "Footprint" "Package_SO:SSOP-24_3.9x8.7mm_P0.635mm"
 			(at 227.965 208.915 0)
 			(effects
 				(font
@@ -18365,6 +18518,15 @@
 			(effects
 				(font
 					(size 3.9878 3.9878)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2873070"
+			(at 227.965 208.915 0)
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
@@ -18477,7 +18639,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-24W_7.5x15.4mm_P1.27mm"
+		(property "Footprint" "Package_SO:SSOP-24_3.9x8.7mm_P0.635mm"
 			(at 252.095 208.915 0)
 			(effects
 				(font
@@ -18509,6 +18671,15 @@
 			(effects
 				(font
 					(size 3.9878 3.9878)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2873070"
+			(at 252.095 208.915 0)
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
@@ -18648,6 +18819,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C132267"
+			(at 276.225 208.915 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9d6f01bf-507b-4b70-82a7-182a04da9e3f")
 		)
@@ -18763,6 +18943,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 298.45 208.915 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C132267"
 			(at 298.45 208.915 0)
 			(effects
 				(font
@@ -18892,6 +19081,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C132267"
+			(at 286.385 51.435 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b2031a69-256c-4046-b319-43b89bc20b29")
 		)
@@ -19013,6 +19211,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C132267"
+			(at 286.385 90.805 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c0db3531-3df2-472a-9450-fd0f1d19c976")
 		)
@@ -19126,6 +19333,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 286.385 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C132267"
 			(at 286.385 129.54 0)
 			(effects
 				(font
@@ -19257,6 +19473,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C17513"
+			(at 68.58 73.152 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3e8b9b02-8f6c-4fa2-88e3-e762c39dd956")
 		)
@@ -19318,6 +19543,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 320.675 208.915 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C132267"
 			(at 320.675 208.915 0)
 			(effects
 				(font
@@ -19449,6 +19683,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C132267"
+			(at 342.9 208.915 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d646c145-0888-4122-a9ee-c80c4050d447")
 		)
@@ -19564,6 +19807,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 365.125 208.915 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C132267"
 			(at 365.125 208.915 0)
 			(effects
 				(font
@@ -19798,7 +20050,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_6.3x5.8"
 			(at 275.082 233.68 0)
 			(effects
 				(font
@@ -19817,6 +20069,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 275.082 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5246550"
 			(at 275.082 233.68 0)
 			(effects
 				(font
@@ -19894,6 +20155,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C17513"
+			(at 68.072 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "414d46f3-497d-41b6-b16d-9ff0d0524ed7")
 		)
@@ -19953,6 +20223,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 44.831 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2870691"
 			(at 44.831 139.7 0)
 			(effects
 				(font
@@ -20066,6 +20345,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C17513"
+			(at 365.76 76.962 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5c806994-420b-4937-9634-61ba538f1c63")
 		)
@@ -20135,6 +20423,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C17513"
+			(at 363.22 76.962 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "96965872-3baa-416a-9abf-fbd9ac43357a")
 		)
@@ -20196,6 +20493,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 360.68 76.962 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17513"
 			(at 360.68 76.962 0)
 			(effects
 				(font
@@ -20338,6 +20644,15 @@
 			)
 		)
 		(property "Digikey" "296-31832-1-ND"
+			(at 55.245 179.959 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C7159"
 			(at 55.245 179.959 0)
 			(effects
 				(font
@@ -20672,6 +20987,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2870691"
+			(at 40.005 179.959 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "93cbace0-386a-48d9-ba32-e574c645b683")
 		)
@@ -20777,6 +21101,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C17513"
+			(at 368.3 76.962 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3c6fda57-e820-4a4a-ae0d-fc76d6dd1aac")
 		)
@@ -20819,7 +21152,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_6.3x5.8"
 			(at 286.385 233.68 0)
 			(effects
 				(font
@@ -20838,6 +21171,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 286.385 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5246550"
 			(at 286.385 233.68 0)
 			(effects
 				(font
@@ -20907,6 +21249,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 371.094 76.962 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17513"
 			(at 371.094 76.962 0)
 			(effects
 				(font
